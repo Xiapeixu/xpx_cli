@@ -4,7 +4,7 @@
 const { program } = require("commander");
 
 // 版本号
-program.version("0.1.1");
+program.version("1.0.1");
 // 创建项目模板
 program
   .command("create <project>")
