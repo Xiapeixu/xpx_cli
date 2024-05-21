@@ -9,6 +9,9 @@
   "bin": {
     "xpx": "index.js"
   },
+  "repository": {
+    "url": "https://github.com/Xiapeixu/xpx_cli"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
